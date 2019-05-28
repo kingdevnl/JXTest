@@ -4,7 +4,7 @@
 replicaCount: 1
 image:
   repository: 10.43.5.54:5000/kingdevnl/jxtest
-  tag: 0.0.3
+  tag: 0.0.4
   pullPolicy: IfNotPresent
 
 # define environment variables here as a map of key: value
